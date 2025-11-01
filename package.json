@@ -2,7 +2,7 @@
   "name": "vidget-feedbacks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ekaterinazuvak.github.io/vidget-feedbacks",
+  "homepage": "https://katerinazhuvak.github.io/vidget-feedbacks/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
